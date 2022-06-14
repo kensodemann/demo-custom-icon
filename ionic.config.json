@@ -1,0 +1,7 @@
+{
+  "name": "custom-icon-vue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
