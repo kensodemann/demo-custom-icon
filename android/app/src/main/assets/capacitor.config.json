@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.customeiconvue",
+	"appName": "custom-icon-vue",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
